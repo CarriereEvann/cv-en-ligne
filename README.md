@@ -23,7 +23,7 @@ Je souhaite développer mes compétences techniques dans :
 # Formation
 
 ## BTS SIO
-Option SISR / SLAM  
+Option SLAM  
 Formation en développement, réseaux et gestion des systèmes informatiques.
 
 ## Baccalauréat
